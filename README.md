@@ -1,4 +1,25 @@
-## Hi there 👋
+## bem-vindo(a) ao meu perfil 🩰💌
+- Meu nome é Ella!
+- Sou cristã ✝️
+- Amo escrever poemas e outros textos
+- Escrevo relatos no [Wattpad](http://www.wattpad.com) 
+- Escrevo um livro de ficção  
+- Danço em casa dança contemporania com um mistura de Ballet
+- Quero ser artista
+<!--
+- 🔭 Atualmente estou trabalhando em ...
+- 🌱 Atualmente estou aprendendo...
+- 👯 Procuro colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
+-->
+
+
+
+
 
 <!--
 **Ella-santana0707/Ella-santana0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
