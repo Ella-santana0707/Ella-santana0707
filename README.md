@@ -4,8 +4,8 @@
 - Amo escrever poemas e outros textos
 - Escrevo relatos no [Wattpad](http://www.wattpad.com) 
 - Escrevo um livro de ficção  
-- Danço em casa dança contemporania com um mistura de Ballet
-- Quero ser artista
+- Danço em casa dança contemporania com um mistura de Ballet 🩰
+- Quero ser artista 
 <!--
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo...
